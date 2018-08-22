@@ -9,4 +9,4 @@ Description...
 ### [\<Client\>]
 - Summary of what does this feature do? Which module or functionality does this affect?
 
-from https://github.com/noodlecake/regiondb/wiki/Pull-Request-Naming-Conventions
+[comment]: # from https://github.com/noodlecake/regiondb/wiki/Pull-Request-Naming-Conventions
